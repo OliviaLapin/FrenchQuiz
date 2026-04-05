@@ -36,9 +36,6 @@
 
 Cоздать и активировать виртуальное окружение:
 ```python
-python3 -m venv env
-```
-```python
 source venv/bin/activate
 ```
 Выполнить миграции:
